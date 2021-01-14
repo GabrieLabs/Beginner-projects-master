@@ -1,5 +1,5 @@
 """
-Beginner Python Project using input, print, and conditionals by Kylie Ying
+Beginner Python Project using input, print, and conditionals by Gabriel Camejo
 
  
 Twitter @iGabrieLabs : https://twitter.com/iGabrieLabs 
